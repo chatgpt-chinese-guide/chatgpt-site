@@ -1,5 +1,5 @@
-# ChatGPT 中文教程：2025年7月版，轻松解锁GPT-4/4o，无需翻墙
-更新时间：2025/07/20
+# ChatGPT 中文教程：2025年8月版，轻松解锁GPT-4/4o，无需翻墙
+更新时间：2025/08/03
 
 本文为您提供一份详尽的ChatGPT中文版使用手册，推荐国内可用的镜像站点，支持GPT-4和GPT-40，无需科学上网即可畅享服务。了解如何快速上手ChatGPT中文版，助力提升您的效率。
 
@@ -38,7 +38,7 @@ ChatGPT中文版是基于OpenAI的ChatGPT模型优化而来的版本，专为中
 
 | 镜像站地址                                                                 | 支持版本                                  | 免费额度 | 注册方式         | 稳定性       | 功能亮点                                                                 |
 |---------------------------------------------------------------------------|-----------------------------------------|---------|-----------------|-------------|-------------------------------------------------------------------------|
-| [https://chat.lanjingai.org](https://chat.lanjingai.org)                      | GPT-4, GPT-4o,GPT-o1、GPT-o3 deepseek-r1, Claude、Gemini、Grok     | 有      | 国内邮箱支持     | ⭐⭐⭐⭐⭐ | 运营稳定两年，支持GPT-4o，集成MJ绘图功能，适合开发者和普通用户         |
+| [https://chat.lanjingai.org](https://chat.lanjingai.org)                      | GPT-4, GPT-4o,GPT-o1、GPT-o3、deepseek-r1, Claude、Gemini、Grok-4     | 有      | 国内邮箱支持     | ⭐⭐⭐⭐⭐ | 运营稳定两年，支持GPT-4o，集成MJ绘图功能，适合开发者和普通用户         |
 | [https://xsimplechat.com](https://xsimplechat.com)                        | GPT-4, GPT-o1, Claude, deepseek-r1, GPT-o3、Claude、Gemini| 有   | 国内邮箱支持     | ⭐⭐⭐⭐⭐ | 支持GPT-o1模型，高度还原官网体验，提供实时语音和视频对话功能           |
 
 ---
